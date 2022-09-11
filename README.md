@@ -4,7 +4,8 @@ You can add your website here or the lainchan thread [here](https://www.lainchan
 
 As of right now I only have the list off of my website (ophanim) and it consists of **only clearnet** websites. Please add other websites to the list as you see fit. 
 
-webring.html - an html file you have to import into your website manually.
+webring.html - an html file you have to import into your website manually. 
+
 banners - website banners.
 
 Thank you! 
