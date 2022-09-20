@@ -6,7 +6,7 @@ As of right now I have an html file full of **only clearnet** websites, a json f
 
 webring.html - an html file you have to import into your website manually.
 
-webring.csv - CSV format
+webring.csv - CSV format.
 
 webring.json - JSON format.
 
