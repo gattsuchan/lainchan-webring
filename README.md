@@ -5,8 +5,11 @@ You can add your website here or the lainchan thread [here](https://www.lainchan
 As of right now I have an html file full of **only clearnet** websites, a json filled with all types (clearnet, tor, i2p, whatever), a CSV, although it looks annoying to format so I am not manually updating this someone else do it (also has TOR, i2p, etc). Please add other websites to the list as you see fit. 
 
 webring.html - an html file you have to import into your website manually.
+
 webring.csv - CSV format
+
 webring.json - JSON format.
+
 banners - website banners.
 
 Thank you! 
