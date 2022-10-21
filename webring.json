@@ -736,4 +736,11 @@
     },
   "banner": "intrcx.png"
   "title": "interloper"
+  {
+	  "urls": {
+		  "clearnet": "https://swindlesmccoop.xyz/"
+	  },
+	  "banner": "swindlesmccoop.png"
+	  "title": "swindlesmccoop"
+  }
 ]
