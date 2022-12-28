@@ -742,5 +742,12 @@
 	  },
 	  "banner": "swindlesmccoop.png"
 	  "title": "swindlesmccoop"
+  },
+  {
+    "urls": {
+      "clearnet": "https://foreverliketh.is/"
+    },
+    "banner": "foreverlikethis.png",
+    "title": "foreverliketh.is"
   }
 ]
