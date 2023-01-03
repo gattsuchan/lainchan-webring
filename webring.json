@@ -727,20 +727,21 @@
     },
     "banner": "trrb.png",
     "title": "trrb"
-  }
+  },
   {
     "urls": {
-      "clearnet": "https://intr.cx/"
-      "tor": "http://intrcxv4fa72e5ovler5dpfwsiyuo34tkcwfy5snzstxkhec75okowqd.onion/"
+      "clearnet": "https://intr.cx/",
+      "tor": "http://intrcxv4fa72e5ovler5dpfwsiyuo34tkcwfy5snzstxkhec75okowqd.onion/",
       "i2p": "http://6jaqgde66kdsqct4ptzdj2vd32kblnk5scgwoprtmcreqbhobuhq.b32.i2p/"
     },
-  "banner": "intrcx.png"
-  "title": "interloper"
+    "banner": "intrcx.png",
+    "title": "interloper"
+  },
   {
 	  "urls": {
 		  "clearnet": "https://swindlesmccoop.xyz/"
 	  },
-	  "banner": "swindlesmccoop.png"
+	  "banner": "swindlesmccoop.png",
 	  "title": "swindlesmccoop"
   }
 ]
