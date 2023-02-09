@@ -1,746 +1,590 @@
-[
-  {
-    "urls": {
-      "clearnet": "https://yukinu.com"
+{
+  "updated": "2023-02-08T11:45:37",
+  "items": [
+    {
+      "url": "https://ophanim.neocities.org",
+      "img": "ophanim.gif",
+      "title": "Ophanim"
     },
-    "banner": "yukinu.gif",
-    "title": "Yukinu"
-  },
-  {
-    "urls": {
-      "clearnet": "http://alienozi.xyz"
-    },
-    "banner": "alienozi.png",
-    "title": "Alienozi's Website for Electonics"
-  },
-  {
-    "urls": {
-      "clearnet": "https://3xf.eu"
-    },
-    "banner": "fenix.png",
-    "title": "Fenix"
-  },
-  {
-    "urls": {
-      "clearnet": "https://tinfoil-hat.net",
-      "tor": "http://x3zf5cyqvutslx6yfdwip3nb2xo4kaevhk6bbeas74ky7cvgr36bf6yd.onion"
-    },
-    "banner": "tinfoil-hat.png",
-    "title": "tinfoil-hat"
-  },
-  {
-    "urls": {
-      "clearnet": "https://nightt.neocities.org"
-    },
-    "banner": "nightt.gif",
-    "title": "Nightt's retro art"
-  },
-  {
-    "urls": {
-      "clearnet": "https://volta.neocities.org"
-    },
-    "banner": "aiws.png",
-    "title": "Alice In Wonderland Syndrome"
-  },
-  {
-    "urls": {
-      "clearnet": "https://jakesthoughts.xyz",
-      "tor": "http://y5wnzw4e6i7srm2gqadlow5anhlaj5avdkzbwzbmrxwkygxdp7ffieqd.onion",
-      "i2p": "http://jakesthoughts.i2p"
-    },
-    "banner": "jakesthoughts.gif",
-    "title": "Jake's thoughts"
-  },
-  {
-    "urls": {
-      "clearnet": "https://jakes-mail.top"
-    },
-    "banner": "jakes-mail.gif",
-    "title": "Jake's mail"
-  },
-  {
-    "urls": {
-      "clearnet": "https://getimiskon.xyz",
+    {
+      "url": "https://getimiskon.neocities.org",
       "tor": "http://6dpjae254fbchoa53e2ypxh6noqjgjkz5iadwy6hlar6egb76m3uihid.onion",
-      "i2p": "http://wjh66n7sdq4drpvs6qlucsmohc33eix2japrcwyhpxyanywdgy4q.b32.i2p"
+      "i2p": "http://wjh66n7sdq4drpvs6qlucsmohc33eix2japrcwyhpxyanywdgy4q.b32.i2p",
+      "img": "getimiskon.png",
+      "title": "getimiskon's space"
     },
-    "banner": "getimiskon.png",
-    "title": "getimiskon's space"
-  },
-  {
-    "urls": {
-      "clearnet": "https://mayvaneday.org",
+    {
+      "url": "https://yukinu.com",
+      "img": "yukinu.gif",
+      "title": "Yukinu"
+    },
+    {
+      "url": "http://alienozi.c1.biz",
+      "img": "alienozi.png",
+      "title": "Alienozi's Website for Electonics"
+    },
+    {
+      "url": "https://jyushimatsu.web.fc2.com",
+      "img": "jyushimatsu.png",
+      "title": "jyushimatsu"
+    },
+    {
+      "url": "https://3xf.eu",
+      "img": "fenix.png",
+      "title": "FönixFogelFuchs"
+    },
+    {
+      "url": "https://xerophyte.neocities.org",
+      "img": "xerophyte.gif",
+      "title": "Xerophyte"
+    },
+    {
+      "url": "https://tinfoil-hat.net",
+      "tor": "http://x3zf5cyqvutslx6yfdwip3nb2xo4kaevhk6bbeas74ky7cvgr36bf6yd.onion",
+      "img": "tinfoil-hat.png",
+      "title": "tinfoil-hat"
+    },
+    {
+      "url": "https://nightt.neocities.org",
+      "img": "nightt.gif",
+      "title": "Nightt's retro art"
+    },
+    {
+      "url": "https://volta.neocities.org",
+      "img": "aiws.png",
+      "title": "Alice In Wonderland Syndrome"
+    },
+    {
+      "url": "https://jakesthoughts.xyz",
+      "tor": "http://y5wnzw4e6i7srm2gqadlow5anhlaj5avdkzbwzbmrxwkygxdp7ffieqd.onion",
+      "img": "jakesthoughts.gif",
+      "title": "Jake's thoughts"
+    },
+    {
+      "url": "https://jakes-mail.top",
+      "img": "jakes-mail.gif",
+      "title": "Jake's mail"
+    },
+    {
+      "url": "https://www.davidgebski.nl",
+      "img": "davidgebski.png",
+      "title": "davidgebski.nl"
+    },
+    {
+      "url": "https://mayvaneday.org",
       "tor": "http://meynethaffeecapsvfphrcnfrx44w2nskgls2juwitibvqctk2plvhqd.onion",
-      "i2p": "http://zli2qsg54w7y42vgw4xxlnj4nktcpg7xp33yjxkp33sjafvznbwa.b32.i2p"
+      "i2p": "http://zli2qsg54w7y42vgw4xxlnj4nktcpg7xp33yjxkp33sjafvznbwa.b32.i2p",
+      "img": "mayvaneday-org.png",
+      "title": "MayVaneDay Studios"
     },
-    "banner": "mayvaneday-org.png",
-    "title": "MayVaneDay Studios"
-  },
-  {
-    "urls": {
-      "clearnet": "https://se7en-site.neocities.org"
+    {
+      "url": "https://se7en-site.neocities.org",
+      "img": "se7en-site.png",
+      "title": "Se7en's site"
     },
-    "banner": "se7en-site.png",
-    "title": "Se7en's site"
-  },
-  {
-    "urls": {
-      "clearnet": "https://dataswamp.org/~lich"
+    {
+      "url": "https://dataswamp.org/~lich",
+      "img": "lich.png",
+      "title": "lich's website"
     },
-    "banner": "lich.png",
-    "title": "lich's website"
-  },
-  {
-    "urls": {
-      "clearnet": "http://radioccc.xyz"
+    {
+      "url": "http://radioccc.xyz",
+      "img": "radio-chupacabra.png",
+      "title": "Radio Chupacabra"
     },
-    "banner": "radio-chupacabra.png",
-    "title": "Radio Chupacabra"
-  },
-  {
-    "urls": {
-      "clearnet": "https://uwcur.neocities.org/"
+    {
+      "url": "https://uwcur.neocities.org",
+      "img": "uwcur.png",
+      "title": "Underground Web Cyberpunk Community Project"
     },
-    "banner": "uwcur.png",
-    "title": "uwcur"
-  },
-  {
-    "urls": {
-      "clearnet": "https://saltorn.neocities.org"
+    {
+      "url": "https://saltorn.neocities.org",
+      "img": "saltorn.png",
+      "title": "Saltorn"
     },
-    "banner": "saltorn.png",
-    "title": "Saltorn"
-  },
-  {
-    "urls": {
-      "clearnet": "https://tilde.club/~parnell"
+    {
+      "url": "https://nyom.ru",
+      "img": "nyom.gif",
+      "title": "nyom.ru"
     },
-    "banner": "parnell.png",
-    "title": "J. Frank Parnell"
-  },
-  {
-    "urls": {
-      "clearnet": "https://deurist.neocities.org"
+    {
+      "url": "https://tilde.club/~parnell",
+      "img": "parnell.png",
+      "title": "J. Frank Parnell"
     },
-    "banner": "deurist.png",
-    "title": "Urist"
-  },
-  {
-    "urls": {
-      "clearnet": "https://tohya.net"
+    {
+      "url": "https://deurist.neocities.org",
+      "img": "deurist.png",
+      "title": "Urist"
     },
-    "banner": "tohya.png",
-    "title": "saturnexplorers"
-  },
-  {
-    "urls": {
-      "clearnet": "https://kyubit.neocities.org"
+    {
+      "url": "https://tohya.net",
+      "img": "tohya.png",
+      "title": "saturnexplorers"
     },
-    "banner": "kyubit.png",
-    "title": "Kyubit"
-  },
-  {
-    "urls": {
-      "clearnet": "https://grafo.zone"
+    {
+      "url": "https://kyubit.neocities.org",
+      "img": "kyubit.png",
+      "title": "Kyubit"
     },
-    "banner": "grafo.png",
-    "title": "Grafo"
-  },
-  {
-    "urls": {
-      "clearnet": "https://sftn.github.io"
+    {
+      "url": "https://grafovolaverunt.xyz",
+      "img": "grafovolaverunt.gif",
+      "title": "Grafo Volaverunt"
     },
-    "banner": "sftn.png",
-    "title": "Strings From The Network"
-  },
-  {
-    "urls": {
-      "clearnet": "https://lilibyte.net",
-      "tor": "http://23xyglk2g4y2fdtrpm4wo3rvrq2gt2ar7f3pyyt7ikeywdq5kpbheuyd.onion"
+    {
+      "url": "https://kill-9.xyz",
+      "img": "kill-9-new.png",
+      "title": "kill-9.xyz"
     },
-    "banner": "lilibyte.gif",
-    "title": "Lilibyte"
-  },
-  {
-    "urls": {
-      "clearnet": "https://strlst.myogaya.jp/index.html"
+    {
+      "url": "https://lainch.leibur.eu",
+      "img": "lainch.png",
+      "title": "Lainch"
     },
-    "banner": "strlst.png",
-    "title": "satorialistic"
-  },
-  {
-    "urls": {
-      "clearnet": "https://skumsoft.ltd/slimenet"
+    {
+      "url": "https://cumbia.neocities.org",
+      "img": "cumbia.png",
+      "title": "Cumbia in the wired"
     },
-    "banner": "slime-net.gif",
-    "title": "Slime-Net"
-  },
-  {
-    "urls": {
-      "clearnet": "https://bendersteed.tech"
+    {
+      "url": "https://sftn.github.io",
+      "img": "sftn.png",
+      "title": "Strings From The Network"
     },
-    "banner": "bendersteed.jpg",
-    "title": "Bendersteed"
-  },
-  {
-    "urls": {
-      "clearnet": "https://theswissbay.ch/pdf",
-      "tor": "http://swissbaync5d7ykaz7dh7v4qjrb4gmen5aj3bogxrcgbb43ij34bjuyd.onion/pdf"
+    {
+      "url": "https://lilibyte.net",
+      "tor": "http://23xyglk2g4y2fdtrpm4wo3rvrq2gt2ar7f3pyyt7ikeywdq5kpbheuyd.onion",
+      "img": "lilibyte.gif",
+      "title": "Lilibyte"
     },
-    "banner": "the-swiss-bay.jpg",
-    "title": "The Swiss Bay"
-  },
-  {
-    "urls": {
-      "clearnet": "https://six10.pw"
+    {
+      "url": "https://strlst.myogaya.jp/index.html",
+      "img": "strlst.png",
+      "title": "satorialistic"
     },
-    "banner": "six10.png",
-    "title": "SIX10"
-  },
-  {
-    "urls": {
-      "clearnet": "https://jack---91.neocities.org"
+    {
+      "url": "https://user-index.xyz",
+      "img": "user-index.gif",
+      "title": "User-Index"
     },
-    "banner": "jack91.gif",
-    "title": "J@ck#91"
-  },
-  {
-    "urls": {
-      "clearnet": "https://flammableduck.xyz"
+    {
+      "url": "https://skumsoft.ltd/slimenet",
+      "img": "slime-net.gif",
+      "title": "Slime-Net"
     },
-    "banner": "flammable-duck.png",
-    "title": "Flammable Duck"
-  },
-  {
-    "urls": {
-      "clearnet": "https://gapandfriends.neocities.org"
+    {
+      "url": "https://bendersteed.tech",
+      "img": "bendersteed.jpg",
+      "title": "Bendersteed"
     },
-    "banner": "gap-and-friends.png",
-    "title": "Gap and friends"
-  },
-  {
-    "urls": {
-      "clearnet": "https://purplevoid.neocities.org"
+    {
+      "url": "https://hellishchemicals.neocities.org",
+      "img": "hellish-chemicals.png",
+      "title": "Hellish Chemicals"
     },
-    "banner": "purplevoid.png",
-    "title": "purplevoid"
-  },
-  {
-    "urls": {
-      "clearnet": "https://unix.tirol"
+    {
+      "url": "https://theswissbay.ch/pdf",
+      "tor": "http://swissbaync5d7ykaz7dh7v4qjrb4gmen5aj3bogxrcgbb43ij34bjuyd.onion/pdf",
+      "img": "the-swiss-bay.jpg",
+      "title": "The Swiss Bay"
     },
-    "banner": "unix-tirol.png",
-    "title": "unix.tirol"
-  },
-  {
-    "urls": {
-      "clearnet": "https://hakase-shrine.cf"
+    {
+      "url": "http://freetext.wz.cz",
+      "img": "freetext.png",
+      "title": "Freetext"
     },
-    "banner": "shrine-of-hakase.gif",
-    "title": "Shrine of Hakase"
-  },
-  {
-    "urls": {
-      "clearnet": "https://extramundane.xyz"
+    {
+      "url": "https://six10.pw",
+      "img": "six10.png",
+      "title": "SIX10"
     },
-    "banner": "extramundane.jpg",
-    "title": "The Extramundane"
-  },
-  {
-    "urls": {
-      "clearnet": "https://omicronsetup.eu"
+    {
+      "url": "https://jack---91.neocities.org",
+      "img": "jack91.gif",
+      "title": "J@ck#91"
     },
-    "banner": "omicron-setup.gif",
-    "title": "Omicron Setup"
-  },
-  {
-    "urls": {
-      "clearnet": "https://workingsea.neocities.org"
+    {
+      "url": "https://xenobyte.xyz",
+      "img": "xenobyte.jpg",
+      "title": "Xenobyte"
     },
-    "banner": "workingsea.png",
-    "title": "WorkingSea"
-  },
-  {
-    "urls": {
-      "clearnet": "https://lukescabin.neocities.org"
+    {
+      "url": "https://flammableduck.xyz",
+      "img": "flammable-duck.png",
+      "title": "Flammable Duck"
     },
-    "banner": "lukes-cabin.png",
-    "title": "Luke's Cabin"
-  },
-  {
-    "urls": {
-      "clearnet": "https://protocol7.xyz"
+    {
+      "url": "https://tildezero.xyz/~goat/#rigmarole",
+      "img": "blaise-haskell.jpg",
+      "title": "Blaise Haskell"
     },
-    "banner": "protocol7.png",
-    "title": "Protocol 7"
-  },
-  {
-    "urls": {
-      "clearnet": "https://tard.zone"
+    {
+      "url": "https://gapandfriends.neocities.org",
+      "img": "gap-and-friends.png",
+      "title": "Gap and friends"
     },
-    "banner": "tard-zone.gif",
-    "title": "Tard Zone"
-  },
-  {
-    "urls": {
-      "clearnet": "https://beedge.neocities.org"
+    {
+      "url": "https://purplevoid.neocities.org",
+      "img": "purplevoid.png",
+      "title": "purplevoid"
     },
-    "banner": "beedge.png",
-    "title": "Beedge"
-  },
-  {
-    "urls": {
-      "clearnet": "https://0x1bi.net"
+    {
+      "url": "https://sizeof.cat",
+      "tor": "http://sizeofaex6zgovemvemn2g3jfmgujievmxxxbcgnbrnmgcjcjpiiprqd.onion",
+      "img": "sizeofcat.jpg",
+      "title": "sizeof(cat)"
     },
-    "banner": "0x1bi.png",
-    "title": "0x1bi"
-  },
-  {
-    "urls": {
-      "clearnet": "https://deadendshrine.online",
+    {
+      "url": "https://unix.tirol",
+      "img": "unix-tirol.png",
+      "title": "unix.tirol"
+    },
+    {
+      "url": "http://hakase-shrine.cf",
+      "img": "shrine-of-hakase.gif",
+      "title": "Shrine of Hakase"
+    },
+    {
+      "url": "https://extramundane.xyz",
+      "img": "extramundane.jpg",
+      "title": "The Extramundane"
+    },
+    {
+      "url": "https://omicronsetup.eu",
+      "img": "omicron-setup.gif",
+      "title": "Omicron Setup"
+    },
+    {
+      "url": "https://workingsea.neocities.org",
+      "img": "workingsea.png",
+      "title": "WorkingSea"
+    },
+    {
+      "url": "https://lukescabin.neocities.org",
+      "img": "lukes-cabin.png",
+      "title": "Luke's Cabin"
+    },
+    {
+      "url": "https://protocol7.xyz",
+      "img": "protocol7.png",
+      "title": "Protocol 7"
+    },
+    {
+      "url": "https://tard.zone",
+      "img": "tard-zone.gif",
+      "title": "Tard Zone"
+    },
+    {
+      "url": "https://beedge.neocities.org",
+      "img": "beedge.png",
+      "title": "Beedge"
+    },
+    {
+      "url": "https://0x1bi.net",
+      "img": "0x1bi.png",
+      "title": "0x1bi"
+    },
+    {
+      "url": "https://deadendshrine.online",
       "tor": "http://blapi36sowfyuwzp4ag24xb3d4zdrzgtafez3g3lkp2rj4ho7lxhceid.onion",
-      "i2p": "http://2a55el42cobuxtls7iv6eoimejocybdekwnnaefcn4u2f5eydela.b32.i2p"
+      "i2p": "http://2a55el42cobuxtls7iv6eoimejocybdekwnnaefcn4u2f5eydela.b32.i2p",
+      "img": "dead-end-shrine.png",
+      "title": "Dead End Shrine Online"
     },
-    "banner": "dead-end-shrine.png",
-    "title": "Dead End Shrine Online"
-  },
-  {
-    "urls": {
-      "clearnet": "https://digilord.neocities.org"
+    {
+      "url": "https://digilord.neocities.org",
+      "img": "digilord.gif",
+      "title": "Digilord"
     },
-    "banner": "digilord.gif",
-    "title": "Digilord"
-  },
-  {
-    "urls": {
-      "clearnet": "https://godcock.neocities.org"
+    {
+      "url": "https://godcock.neocities.org",
+      "img": "godcock.jpg",
+      "title": "Godcock"
     },
-    "banner": "godcock.jpg",
-    "title": "Godcock"
-  },
-  {
-    "urls": {
-      "clearnet": "https://michii.tk"
+    {
+      "url": "https://michii.tk",
+      "img": "michi.png",
+      "title": "Michi"
     },
-    "banner": "michi.png",
-    "title": "Michi"
-  },
-  {
-    "urls": {
-      "clearnet": "https://erratas.neocities.org/"
+    {
+      "url": "https://karar.neocities.org",
+      "img": "karar.png",
+      "title": "Karar"
     },
-    "banner": "erratas.gif",
-    "title": "Erratas"
-  },
-  {
-    "urls": {
-      "clearnet": "https://nosleepforme.neocities.org"
+    {
+      "url": "https://nosleepforme.neocities.org",
+      "img": "no-sleep.png",
+      "title": "No Sleep"
     },
-    "banner": "no-sleep.png",
-    "title": "No Sleep"
-  },
-  {
-    "urls": {
-      "clearnet": "https://room4.neocities.org"
+    {
+      "url": "https://room4.neocities.org",
+      "img": "room-4.jpg",
+      "title": "Room 4"
     },
-    "banner": "room-4.jpg",
-    "title": "Room 4"
-  },
-  {
-    "urls": {
-      "clearnet": "https://hen6003.xyz"
+    {
+      "url": "https://hen6003.xyz",
+      "img": "hen6003.png",
+      "title": "hen6003"
     },
-    "banner": "hen6003.png",
-    "title": "hen6003"
-  },
-  {
-    "urls": {
-      "clearnet": "https://slushbin.org"
+    {
+      "url": "https://diskmagvp.neocities.org",
+      "img": "diskmagvp.png",
+      "title": "diskmagvp"
     },
-    "banner": "slushbin.gif",
-    "title": "Slushbin"
-  },
-  {
-    "urls": {
-      "clearnet": "https://mm4rk3t.neocities.org"
+    {
+      "url": "https://thephilosopherslibrary.neocities.org",
+      "img": "thephilosopherslibrary.png",
+      "title": "thephilosopherslibrary"
     },
-    "banner": "mm4rk3t.gif",
-    "title": "mm4rk3t"
-  },
-  {
-    "urls": {
-      "clearnet": "https://kassy.neocities.org"
+    {
+      "url": "https://mm4rk3t.neocities.org",
+      "img": "mm4rk3t.gif",
+      "title": "mm4rk3t"
     },
-    "banner": "kassy.jpg",
-    "title": "kassy"
-  },
-  {
-    "urls": {
-      "clearnet": "https://cabbagesorter.neocities.org"
+    {
+      "url": "https://kassy.neocities.org",
+      "img": "kassy.jpg",
+      "title": "kassy"
     },
-    "banner": "cabbage-sorter.png",
-    "title": "Cabbage Sorter"
-  },
-  {
-    "urls": {
-      "clearnet": "https://xiixiixii.xyz"
+    {
+      "url": "https://cabbagesorter.neocities.org",
+      "img": "cabbage-sorter.png",
+      "title": "Cabbage Sorter"
     },
-    "banner": "xiixiixii.gif",
-    "title": "xiixiixii"
-  },
-  {
-    "urls": {
-      "clearnet": "https://oedo808.neocities.org"
+    {
+      "url": "https://xiixiixii.xyz",
+      "img": "xiixiixii.gif",
+      "title": "xiixiixii"
     },
-    "banner": "oedo808.gif",
-    "title": "oedo808"
-  },
-  {
-    "urls": {
-      "clearnet": "https://xn--z7x.xn--6frz82g"
+    {
+      "url": "https://oedo808.neocities.org",
+      "img": "oedo808.gif",
+      "title": "oedo808"
     },
-    "banner": "xn-neko.gif",
-    "title": "xn-neko"
-  },
-  {
-    "urls": {
-      "clearnet": "https://jole.xyz"
+    {
+      "url": "https://xn--z7x.xn--6frz82g",
+      "img": "xn-neko.gif",
+      "title": "xn-neko"
     },
-    "banner": "jole.png",
-    "title": "jole"
-  },
-  {
-    "urls": {
-      "clearnet": "https://confusion.codeberg.page"
+    {
+      "url": "https://jole.xyz",
+      "img": "jole.png",
+      "title": "jole"
     },
-    "banner": "confusion.png",
-    "title": "Confusion's Confusing Confusefest"
-  },
-  {
-    "urls": {
-      "clearnet": "https://morituritesalutant.neocities.org"
+    {
+      "url": "https://confusion.codeberg.page",
+      "img": "confusion.png",
+      "title": "Confusion's Confusing Confusefest"
     },
-    "banner": "morituri-te-salutant.jpg",
-    "title": "Morituri Te Salutant"
-  },
-  {
-    "urls": {
-      "clearnet": "https://oversteer.xyz"
+    {
+      "url": "https://morituritesalutant.neocities.org",
+      "img": "morituri-te-salutant.jpg",
+      "title": "Morituri Te Salutant"
     },
-    "banner": "oversteer.png",
-    "title": "Oversteer"
-  },
-  {
-    "urls": {
-      "clearnet": "https://lain.la"
+    {
+      "url": "https://forum.agoraroad.com",
+      "img": "agoraroad.gif",
+      "title": "Agora Road"
     },
-    "banner": "lain-la.png",
-    "title": "lain.la"
-  },
-  {
-    "urls": {
-      "clearnet": "https://arisu.world"
+    {
+      "url": "https://lain.la",
+      "img": "lain-la.png",
+      "title": "lain.la"
     },
-    "banner": "arisu-world.png",
-    "title": "arisu.world"
-  },
-  {
-    "urls": {
-      "clearnet": "https://unpop.neocities.org"
+    {
+      "url": "https://arisu.world",
+      "img": "arisu-world.png",
+      "title": "arisu.world"
     },
-    "banner": "unpop.gif",
-    "title": "Unpop"
-  },
-  {
-    "urls": {
-      "clearnet": "https://driftt.neocities.org"
+    {
+      "url": "https://unpop.neocities.org",
+      "img": "unpop.gif",
+      "title": "Unpop"
     },
-    "banner": "driftt.png",
-    "title": "Driftt"
-  },
-  {
-    "urls": {
-      "clearnet": "https://chaox.ro",
+    {
+      "url": "https://driftt.neocities.org",
+      "img": "driftt.png",
+      "title": "Driftt"
+    },
+    {
+      "url": "https://chaox.ro",
       "tor": "http://chaoxuo7g4tqdyeikjo6jaa6dmk34vmdp3s577hgeusuntmcfd4xaxqd.onion",
-      "i2p": "http://6bcqgkedaq2krrhvidjlmdsoltmzuwaqtrafycfzbc56h5swumoq.b32.i2p"
+      "i2p": "http://6bcqgkedaq2krrhvidjlmdsoltmzuwaqtrafycfzbc56h5swumoq.b32.i2p",
+      "img": "chaox.png",
+      "title": "Chaox"
     },
-    "banner": "chaox.png",
-    "title": "Chaox"
-  },
-  {
-    "urls": {
-      "clearnet": "https://cached.world/blog"
+    {
+      "url": "https://itsevergreen.rip",
+      "img": "evergreen.png",
+      "title": "Evergreen"
     },
-    "banner": "cached-world.png",
-    "title": "cached.world"
-  },
-  {
-    "urls": {
-      "clearnet": "https://itsevergreen.rip"
+    {
+      "url": "https://mazak.neocities.org",
+      "img": "mazak.png",
+      "title": "Mazak"
     },
-    "banner": "evergreen.png",
-    "title": "Evergreen"
-  },
-  {
-    "urls": {
-      "clearnet": "https://mazak.neocities.org"
+    {
+      "url": "https://smolthots.neocities.org",
+      "img": "small-thoughts.jpg",
+      "title": "Small Thoughts"
     },
-    "banner": "mazak.png",
-    "title": "Mazak"
-  },
-  {
-    "urls": {
-      "clearnet": "https://smolthots.neocities.org"
+    {
+      "url": "https://spectrum-of-consciousness.neocities.org",
+      "img": "spectrum-of-consciousness.gif",
+      "title": "Spectrum of Consciousness"
     },
-    "banner": "small-thoughts.jpg",
-    "title": "Small Thoughts"
-  },
-  {
-    "urls": {
-      "clearnet": "https://spectrum-of-consciousness.neocities.org"
+    {
+      "url": "https://libertywitch.com",
+      "tor": "http://mlucvtipzluwceniyzwxt52a3wdvu3t3ahdshht3sctc6hs4o2umqjad.onion",
+      "img": "liberty-witch.png",
+      "title": "Liberty Witch"
     },
-    "banner": "spectrum-of-consciousness.gif",
-    "title": "Spectrum of Consciousness"
-  },
-  {
-    "urls": {
-      "clearnet": "https://libertywitch.com",
-      "tor": "http://mlucvtipzluwceniyzwxt52a3wdvu3t3ahdshht3sctc6hs4o2umqjad.onion"
+    {
+      "url": "https://seapunk.xyz",
+      "tor": "http://seapunkltrahptcvv45lyws754uk64l3ywssuzil2ghk77k276dvtvqd.onion",
+      "img": "seapunk.gif",
+      "title": "Seapunk"
     },
-    "banner": "liberty-witch.png",
-    "title": "Liberty Witch"
-  },
-  {
-    "urls": {
-      "clearnet": "https://seapunk.xyz",
-      "tor": "http://seapunkltrahptcvv45lyws754uk64l3ywssuzil2ghk77k276dvtvqd.onion/"
+    {
+      "url": "https://ty3r0x.chaox.ro",
+      "img": "ty3r0x.png",
+      "title": "Ty3r0x"
     },
-    "banner": "seapunk.gif",
-    "title": "Seapunk"
-  },
-  {
-    "urls": {
-      "clearnet": "https://ty3r0x.chaox.ro"
+    {
+      "url": "https://lckdscl.xyz",
+      "img": "lckdscl.png",
+      "title": "lckdscl"
     },
-    "banner": "ty3r0x.png",
-    "title": "Ty3r0x"
-  },
-  {
-    "urls": {
-      "clearnet": "https://lckdscl.xyz"
+    {
+      "url": "https://qmaury.com",
+      "img": "qmaury.jpg",
+      "title": "qmaury"
     },
-    "banner": "lckdscl.png",
-    "title": "lckdscl"
-  },
-  {
-    "urls": {
-      "clearnet": "https://qmaury.com"
+    {
+      "url": "https://galladite.net/~galladite/",
+      "img": "galladite.png",
+      "title": "galladite"
     },
-    "banner": "qmaury.jpg",
-    "title": "qmaury"
-  },
-  {
-    "urls": {
-      "clearnet": "https://sizeof.cat",
-      "tor": "http://sizeofaex6zgovemvemn2g3jfmgujievmxxxbcgnbrnmgcjcjpiiprqd.onion"
+    {
+      "url": "https://halogenstars.neocities.org",
+      "img": "halogen-stars.png",
+      "title": "halogen stars"
     },
-    "banner": "sizeofcat.jpeg",
-    "title": "size of cat"
-  },
-  {
-    "urls": {
-      "clearnet": "https://galladite.net/~galladite"
+    {
+      "url": "https://kirillov.neocities.org",
+      "img": "kirillov.png",
+      "title": "Kirillov"
     },
-    "banner": "galladite.gif",
-    "title": "galladite"
-  },
-  {
-    "urls": {
-      "clearnet": "https://halogenstars.neocities.org"
+    {
+      "url": "https://nerdbox.neocities.org",
+      "img": "nerdbox.png",
+      "title": "nerdbox"
     },
-    "banner": "halogen-stars.png",
-    "title": "halogen stars"
-  },
-  {
-    "urls": {
-      "clearnet": "https://kirillov.neocities.org"
+    {
+      "url": "https://thecrypt.neocities.org",
+      "img": "thecrypt.gif",
+      "title": "TheCrypt"
     },
-    "banner": "kirillov.png",
-    "title": "Kirillov"
-  },
-  {
-    "urls": {
-      "clearnet": "https://nerdbox.neocities.org"
+    {
+      "url": "https://orizuru.neocities.org",
+      "img": "orizuru.png",
+      "title": "orizuru"
     },
-    "banner": "nerdbox.png",
-    "title": "nerdbox"
-  },
-  {
-    "urls": {
-      "clearnet": "https://orizuru.neocities.org"
+    {
+      "url": "https://rainisnot.neocities.org",
+      "img": "rain.png",
+      "title": "rain"
     },
-    "banner": "orizuru.png",
-    "title": "orizuru"
-  },
-  {
-    "urls": {
-      "clearnet": "https://rainisnot.neocities.org"
+    {
+      "url": "https://tilde.team/~lemon",
+      "img": "tocxjo.gif",
+      "title": "tocxjo"
     },
-    "banner": "rain.png",
-    "title": "rain"
-  },
-  {
-    "urls": {
-      "clearnet": "https://tilde.team/~lemon"
+    {
+      "url": "https://newdigitalera.neocities.org",
+      "img": "newdigitalera.png",
+      "title": "newdigitalera"
     },
-    "banner": "tocxjo.gif",
-    "title": "tocxjo"
-  },
-  {
-    "urls": {
-      "clearnet": "https://ophanim.neocities.org"
+    {
+      "url": "https://e3-l18-3.xyz",
+      "img": "e3-l18-3.gif",
+      "title": "e3-l18-3"
     },
-    "banner": "ophanim.gif",
-    "title": "ophanim"
-  },
-  {
-    "urls": {
-      "clearnet": "https://newdigitalera.neocities.org"
+    {
+      "url": "https://vincememe.icu",
+      "img": "vincememe.png",
+      "title": "Vincememe"
     },
-    "banner": "new-digital-era.png",
-    "title": "New Digital Era"
-  },
-  {
-    "urls": {
-      "clearnet": "https://adacayiseverim.neocities.org"
+    {
+      "url": "https://nomadalgia.xyz",
+      "img": "nomadalgia.gif",
+      "title": "Nomadalgia"
     },
-    "banner": "adacayiseverim.png",
-    "title": "adacayiseverim"
-  },
-  {
-    "urls": {
-      "clearnet": "https://e3-l18-3.xyz/"
+    {
+      "url": "https://minugahana.neocities.org",
+      "img": "minugahana.png",
+      "title": "minugahana"
     },
-    "banner": "kati.gif",
-    "title": "Kati"
-  },
-  {
-    "urls": {
-      "clearnet": "https://heimdall.pm",
-      "tor": "http://csuefmnnyexsopqtxs2lwrjiffpnndabyfrhz7j6z7d3bmt567ws4pqd.onion"
+    {
+      "url": "https://www.tyxton.net",
+      "img": "tyxton.png",
+      "title": "tyxton.net"
     },
-    "banner": "heimdall.gif",
-    "title": "Heimdall"
-  },
-  {
-    "urls": {
-      "clearnet": "https://minugahana.neocities.org"
-    },
-    "banner": "minugahana.png",
-    "title": "Minu ga hana"
-  },
-  {
-    "urls": {
-      "tor": "http://cgjzkysxa4ru5rhrtr6rafckhexbisbtxwg2fg743cjumioysmirhdad.onion"
-    },
-    "banner": "coarseenigma.png",
-    "title": "Coarse Enigma"
-  },
-  {
-    "urls": {
-      "tor": "http://ubnm4kfxmjglxh2zrlunbxubg3knzr6wumixzkl5xmkc7h5oho4lx4qd.onion",
-      "i2p": "http://6wtwgsezmmiwubp23abh2iwdpyteipmn5nwzgfwrcnygwvmthmzq.b32.i2p"
-    },
-    "banner": "hidden-route.gif",
-    "title": "Hidden Route"
-  },
-  {
-    "urls": {
-      "tor": "http://aiboswcb66bivz36uoobhuicyn6gyilnrut4xw2jiowqhzwrjdazajid.onion",
-      "i2p": "http://amw3v23sfnh6koi6a2pjkevqqdwnoe32cfkifanddis7c7aa27mq.b32.i2p"
-    },
-    "banner": "pk33.png",
-    "title": "pk33"
-  },
-  {
-    "urls": {
-      "clearnet": "https://korosama.xyz/"
-    },
-    "banner": "korosama.gif",
-    "title": "Korosama"
-  },  
-  {
-    "urls": {
-      "clearnet": "https://nomadalgia.xyz/"
-    },
-    "banner": "nomadalgia.gif",
-    "title": "Nomadalgia"
-  },
-  {
-    "urls": {
-      "clearnet": "https://urof.net",
+    {
+      "url": "https://urof.net",
       "tor": "http://urofnon3layyes5wworh3x3i4wmgdm4livdn2qiedpsetujfxegmg4qd.onion",
-      "i2p": "http://oztmbptelqcuj5ic5ogh7yccdokaordeocthrn56r6v3cqtksaba.b32.i2p"
+      "i2p": "http://oztmbptelqcuj5ic5ogh7yccdokaordeocthrn56r6v3cqtksaba.b32.i2p",
+      "img": "urof.gif",
+      "title": "urof.net"
     },
-    "banner": "urof.gif",
-    "title": "urof"
-  },
-  {
-    "urls": {
-      "clearnet": "https://thecrypt.neocities.org/"
+    {
+      "url": "https://trrb.xyz/",
+      "img": "trrb.png",
+      "title": "trrb"
     },
-    "banner": "thecrypt.gif",
-    "title": "The crypt"
-  },
-  {
-    "urls": {
-      "clearnet": "https://cosmica123.neocities.org/"
+    {
+      "url": "https://www.s-config.com",
+      "tor": "http://xjfbpuj56rdazx4iolylxplbvyft2onuerjeimlcqwaihp3s6r4xebqd.onion",
+      "img": "s-config.png",
+      "title": "S-Config"
     },
-    "banner": "cosmica123.png",
-    "title": "cosmica123"
-  },
-  {
-    "urls": {
-      "clearnet": "https://www.cozynet.org/"
+    {
+      "url": "https://grafo.zone",
+      "img": "grafo-zone.png",
+      "title": "Grafo Zone"
     },
-    "banner": "cozynet.gif",
-    "title": "cozynet"
-  },
-  {
-    "urls": {
-      "clearnet": "https://www.tyxton.net"
+    {
+      "url": "https://intr.cx",
+      "tor": "http://intrcxv4fa72e5ovler5dpfwsiyuo34tkcwfy5snzstxkhec75okowqd.onion",
+      "i2p": "http://6jaqgde66kdsqct4ptzdj2vd32kblnk5scgwoprtmcreqbhobuhq.b32.i2p",
+      "img": "interloper.png",
+      "title": "interloper minimalist services"
     },
-    "banner": "tyxton.png",
-    "title": "tyxton.net"
-  },
-  {
-    "urls": {
-      "clearnet": "https://www.s-config.com/",
-      "tor": "http://xjfbpuj56rdazx4iolylxplbvyft2onuerjeimlcqwaihp3s6r4xebqd.onion/"
+    {
+      "url": "https://cool-website.xyz",
+      "img": "cool-website.png",
+      "title": "cool-website.xyz"
     },
-    "banner": "s-config.png",
-    "title": "s-config"
-  },
-  {
-    "urls": {
-      "clearnet": "https://trrb.xyz/"
+    {
+      "url": "https://czar.kalli.st",
+      "img": "czar.png",
+      "title": "czar's blog"
     },
-    "banner": "trrb.png",
-    "title": "trrb"
-  }
-  {
-    "urls": {
-      "clearnet": "https://intr.cx/"
-      "tor": "http://intrcxv4fa72e5ovler5dpfwsiyuo34tkcwfy5snzstxkhec75okowqd.onion/"
-      "i2p": "http://6jaqgde66kdsqct4ptzdj2vd32kblnk5scgwoprtmcreqbhobuhq.b32.i2p/"
+    {
+      "url": "https://foreverliketh.is",
+      "img": "foreverliketh.png",
+      "title": "foreverliketh.is"
     },
-  "banner": "intrcx.png"
-  "title": "interloper"
-  {
-	  "urls": {
-		  "clearnet": "https://swindlesmccoop.xyz/"
-	  },
-	  "banner": "swindlesmccoop.png"
-	  "title": "swindlesmccoop"
-  }
-]
+    {
+      "url": "https://vd1r.neocities.org",
+      "img": "vd1r.png",
+      "title": "vd1r"
+    },
+    {
+      "url": "https://www.neetventures.com",
+      "img": "neet-ventures.gif",
+      "title": "Neet Ventures"
+    }
+  ]
+}
