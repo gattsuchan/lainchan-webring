@@ -40,7 +40,7 @@
     },
     {
       "url": "https://tinfoil-hat.net",
-      "tor": "http://x3zf5cyqvutslx6yfdwip3nb2xo4kaevhk6bbeas74ky7cvgr36bf6yd.onion",
+      "tor": "http://rxlcfkupbzft5tho5nwnucyp56b5i3tsrrxouvunvu6qg4fjkqlpe2yd.onion/",
       "img": "tinfoil-hat.png",
       "title": "tinfoil-hat"
     },
@@ -102,11 +102,13 @@
       "img": "saltorn.png",
       "title": "Saltorn"
     },
+    /*
     {
       "url": "https://nyom.ru",
       "img": "nyom.gif",
       "title": "nyom.ru"
     },
+    */
     {
       "url": "https://tilde.club/~parnell",
       "img": "parnell.png",
@@ -137,11 +139,13 @@
       "img": "kill-9-new.png",
       "title": "kill-9.xyz"
     },
+    /*
     {
       "url": "https://lainch.leibur.eu",
       "img": "lainch.png",
       "title": "Lainch"
     },
+    */
     {
       "url": "https://cumbia.neocities.org",
       "img": "cumbia.png",
@@ -204,11 +208,13 @@
       "img": "jack91.gif",
       "title": "J@ck#91"
     },
+    /*
     {
       "url": "https://xenobyte.xyz",
       "img": "xenobyte.jpg",
       "title": "Xenobyte"
     },
+    */
     {
       "url": "https://flammableduck.xyz",
       "img": "flammable-duck.png",
@@ -240,11 +246,13 @@
       "img": "unix-tirol.png",
       "title": "unix.tirol"
     },
+    /*
     {
       "url": "http://hakase-shrine.cf",
       "img": "shrine-of-hakase.gif",
       "title": "Shrine of Hakase"
     },
+    */
     {
       "url": "https://extramundane.xyz",
       "img": "extramundane.jpg",
@@ -302,11 +310,13 @@
       "img": "godcock.jpg",
       "title": "Godcock"
     },
+    /*
     {
       "url": "https://michii.tk",
       "img": "michi.png",
       "title": "Michi"
     },
+    */
     {
       "url": "https://karar.neocities.org",
       "img": "karar.png",
@@ -392,11 +402,13 @@
       "img": "lain-la.png",
       "title": "lain.la"
     },
+    /*
     {
       "url": "https://arisu.world",
       "img": "arisu-world.png",
       "title": "arisu.world"
     },
+    */
     {
       "url": "https://unpop.neocities.org",
       "img": "unpop.gif",
