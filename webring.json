@@ -1,5 +1,5 @@
 {
-  "updated": "2023-02-08T11:45:37",
+  "updated": "2023-04-13T11:45:37",
   "items": [
     {
       "url": "https://ophanim.neocities.org",
@@ -585,6 +585,11 @@
       "url": "https://www.neetventures.com",
       "img": "neet-ventures.gif",
       "title": "Neet Ventures"
+    },
+    {
+      "url": "https://seththyer.com",
+      "img": "seththyer.gif",
+      "title": "SethThyer.com"
     }
   ]
 }
